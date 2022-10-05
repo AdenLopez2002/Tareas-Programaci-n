@@ -1,2 +1,2 @@
-# Tareas-Programaci-n
+# Tareas-Programacion
 Repositorio público para tareas.
